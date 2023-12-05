@@ -1,0 +1,160 @@
+#YT{
+background-color: black;
+  /* border: 1px solid black; */
+    height: 50px;
+    display: flex;
+align-items:center;
+}
+input{
+    font-family: cursive;
+     border: none;
+     color: white;
+
+     height: 20px;
+     outline: none;
+    
+}
+
+.sr{ 
+    height: 22px;
+    width: 40px;
+    color: black;
+    font-size: 15px;
+    border:1px solid gray;
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 25px;
+    text-align: center;
+    padding-top: 2px;
+    background-color: whitesmoke;
+
+
+}
+.srr{
+    height: 22px;
+    width: 30px;
+    border-top-left-radius: 25px;
+    border-bottom-left-radius: 25px;
+    padding-top: 2px;
+    text-align: center;
+    color: black;
+
+
+}
+#B{
+    display: flex;
+justify-content: center;  
+align-items: center;
+border: 1px solid gray;
+    border-top-left-radius: 25px;
+   
+background-color: white;
+
+    border-bottom-left-radius: 25px;
+}
+.mc{
+    border:none;
+    background-color: gray;
+    border-radius: 50%;
+    padding:3px 4px;
+    height: 15px;
+    text-align: center;
+    margin-left: 10px;
+}
+#A{
+    display: flex;
+    justify-content: center;
+   
+     
+     
+    width: 270px;
+    color: black;
+
+    margin-left: 400px;
+    
+
+}
+
+#C{
+    display: flex;
+    align-items: center;
+    width: 180px;
+    border: none;
+    height: 20px;
+    margin-left: -640px;
+
+
+
+}
+.br{
+    margin-left: 15px;
+    color: white;
+}
+.yo{
+    margin-left: 15px;
+
+    color :red;
+}
+#C>h4{
+    color:black;
+    margin-left: 5px;
+    color: white;
+
+
+}
+#C>h6{
+    margin-top: 10px;
+    color: white;
+
+}
+
+.hm{
+    margin-left: -25px;
+    margin-bottom: 4px;
+    color: white;
+
+}
+
+
+
+
+.si{
+    margin-left: 10px;
+    text-decoration: none;
+    color: blue;
+    font-family: cursive;
+    margin-left: 20px;
+    font-size:small;
+    
+
+}
+.pen{
+    position: absolute;
+    margin-left: 3px;
+    
+}
+#rt{
+display: flex;
+align-items: center;
+   height: 16px;
+    border: 1px solid black;
+    padding: 2px ;
+    background-color: white;
+
+    font-size: 12px;
+    border-radius: 50px;
+    margin-left: 700px; 
+    width: 80px;
+color: blue;
+
+   
+
+}
+.vi{
+    position: absolute;
+    margin-left: -28px;
+    color: white;
+    font-size: 16px;
+}
+
+
+

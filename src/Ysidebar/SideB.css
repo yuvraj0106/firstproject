@@ -1,0 +1,52 @@
+
+
+
+
+
+
+
+
+
+
+
+li{
+    list-style: none;
+}
+#ul{
+border: none;
+width: 150px;
+height: 800px;
+background-color: black;
+color: white;
+margin-top: 0.3px;
+
+}
+#sb{
+    border: 1px solid black;
+    width: 190px;
+}
+li{
+margin-left: -25px;
+line-height: 40px;
+
+}
+hr{
+    margin-left: -40px;
+}
+button{
+    padding: 0px 8px;
+    color: red;
+    margin-top: -30px;
+}
+a{
+    margin-left: 10px;
+    text-decoration: none;
+    color: blue;
+    font-family: cursive;
+    margin-left: 20px;
+    font-size:small;
+}
+li>i{
+    font-size: 16px;
+
+}
