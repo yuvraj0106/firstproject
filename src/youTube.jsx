@@ -4,6 +4,7 @@ import NavLeft from './NavLeft.jsx';
 import NavRight from './NavRight.jsx';
 import SideBar from './Ysidebar/SideBar.jsx';
 
+
 function youtube() {
   return (
     <div>
@@ -12,6 +13,7 @@ function youtube() {
  <NavCenter/>
 <NavLeft/>
 <NavRight/>
+
 
 
 

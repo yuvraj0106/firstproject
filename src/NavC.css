@@ -63,13 +63,13 @@ background-color: white;
 #A{
     display: flex;
     justify-content: center;
-   
+   position: absolute;
      
      
     width: 270px;
     color: black;
+    margin-left: 600px;
 
-    margin-left: 400px;
     
 
 }
@@ -80,7 +80,6 @@ background-color: white;
     width: 180px;
     border: none;
     height: 20px;
-    margin-left: -640px;
 
 
 
@@ -136,13 +135,14 @@ background-color: white;
 display: flex;
 align-items: center;
    height: 16px;
+   position: absolute;
     border: 1px solid black;
     padding: 2px ;
     background-color: white;
 
     font-size: 12px;
     border-radius: 50px;
-    margin-left: 700px; 
+    margin-left:1400px ; 
     width: 80px;
 color: blue;
 
